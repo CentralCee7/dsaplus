@@ -1,0 +1,9 @@
+# Compiled binaries
+*
+!*.*
+!*/
+*.out
+*.o
+*.exe
+.DS_Store
+
